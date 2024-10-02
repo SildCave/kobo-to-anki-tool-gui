@@ -1,0 +1,12 @@
+2024-08-31 02:28:05,175 - /usr/lib64/python3.12/asyncio/selector_events.py[line:64] - DEBUG: Using selector: EpollSelector
+2024-08-31 02:28:05,176 - /home/usia/Documents/kobo_to_anki/cambrinary/cambrinary.py[line:97] - INFO: begin to retrieve word: [sophism] in english
+2024-08-31 02:28:05,645 - /home/usia/Documents/kobo_to_anki/cambrinary/cambrinary.py[line:35] - INFO: successfully execute: curl -k --location -A "Mozilla Chrome Safari" -X GET https://dictionary.cambridge.org/dictionary/english/sophism
+2024-08-31 02:28:05,701 - /home/usia/Documents/kobo_to_anki/cambrinary/cambrinary.py[line:89] - INFO: get a dictionary by pr dictionary
+2024-08-31 02:28:05,702 - /home/usia/Documents/kobo_to_anki/cambrinary/cambrinary.py[line:106] - INFO: the number of part_speech is 1
+2024-08-31 02:28:05,702 - /home/usia/Documents/kobo_to_anki/cambrinary/type.py[line:275] - INFO: parse the 0th part_speech
+2024-08-31 02:28:05,702 - /home/usia/Documents/kobo_to_anki/cambrinary/type.py[line:99] - INFO: the pronunciation is: noun [0;34;49mUK[0m [0;39;49m/ˈsɒf.ɪ.zəm/[0m [0;34;49mUS[0m [0;39;49m/ˈsɑː.fɪ.zəm/[0m 
+
+2024-08-31 02:28:05,704 - /home/usia/Documents/kobo_to_anki/cambrinary/type.py[line:249] - INFO: the number of block is 1
+2024-08-31 02:28:05,704 - /home/usia/Documents/kobo_to_anki/cambrinary/type.py[line:251] - INFO: parse the 0th block
+2024-08-31 02:28:05,705 - /home/usia/Documents/kobo_to_anki/cambrinary/type.py[line:183] - INFO: the  title of block is None
+2024-08-31 02:28:05,705 - /home/usia/Documents/kobo_to_anki/cambrinary/type.py[line:188] - INFO: the number of pad_indent is 1

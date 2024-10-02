@@ -1,0 +1,22 @@
+        // ui.vertical_centered(|ui| {
+        //     ui.heading(RichText::new("Kobo To Anki Sync Tool")
+        //         .color(Color32::WHITE)
+        //         .font(FontId::new(50.0, Proportional)));
+        //     ui.label(RichText::new("Please connect your Kobo eReader, If for some reason it is not detected, please select the path to your Kobo eReader manually.")
+        //         .color(Color32::LIGHT_GRAY)
+        //         .font(FontId::new(20.0, Proportional)));
+        // });
+
+        
+        // ui.horizontal(|ui| {
+        //     ui.label("Kobo path:");
+        //     ui.label(format!("{:?}", self.kobo_path));
+        // });
+        // if ui.button("Select file").clicked() {
+        //     // Open the file dialog to select a file.
+        //     self.file_dialog.select_directory();
+        // }
+
+        // ui.label(format!("Selected file: {:?}", self.kobo_path));
+
+        // Update the dialog
